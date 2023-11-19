@@ -1,0 +1,7 @@
+# ninja log v5
+3	360	7214440266374513	PasswordContainerProd_autogen/timestamp	5723b46f93707ea8
+1977	2159	7214440283693205	PasswordContainerProd.exe	e690d62c64fc9736
+3	360	7214440266374513	PasswordContainerProd_autogen/mocs_compilation.cpp	5723b46f93707ea8
+3	360	7214440266374513	C:/Users/tanya/CLionProjects/PasswordContainerProd/cmake-build-release/PasswordContainerProd_autogen/timestamp	5723b46f93707ea8
+3	360	7214440266374513	C:/Users/tanya/CLionProjects/PasswordContainerProd/cmake-build-release/PasswordContainerProd_autogen/mocs_compilation.cpp	5723b46f93707ea8
+360	1365	7214440276776268	CMakeFiles/PasswordContainerProd.dir/PasswordContainerProd_autogen/mocs_compilation.cpp.obj	508fd95d2325bc02

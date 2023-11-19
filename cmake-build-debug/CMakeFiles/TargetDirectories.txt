@@ -1,0 +1,5 @@
+C:/Users/tanya/CLionProjects/PasswordContainerProd/cmake-build-debug/CMakeFiles/PasswordContainerProd.dir
+C:/Users/tanya/CLionProjects/PasswordContainerProd/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tanya/CLionProjects/PasswordContainerProd/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/tanya/CLionProjects/PasswordContainerProd/cmake-build-debug/CMakeFiles/PasswordContainerProd_autogen_timestamp_deps.dir
+C:/Users/tanya/CLionProjects/PasswordContainerProd/cmake-build-debug/CMakeFiles/PasswordContainerProd_autogen.dir
